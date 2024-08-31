@@ -15,7 +15,7 @@ global.ownername = '🐺 알렉산더 🐺'
 global.owner = ['6281326753887'] // SETTING JUGA DI FOLDER DATABASE 
 global.ownernomer = '6281326753887'
 global.socialm = 'GitHub: -'
-global.location = 'Indonesia' 
+global.location = 'In Your Dreams🐦‍🔥' 
 //========================setting Payment=====================\\
 global.nodana = '6281326753887' // KOSONG KAN JIKA TIDAK ADA
 global.nogopay = '6281326753887' // KOSONG KAN JIKA TIDAK ADA 
@@ -32,11 +32,11 @@ global.ownername = '알렉산더'
 global.ownerNumber = ["6281326753887@s.whatsapp.net"]
 global.ownerweb = ""
 global.websitex = ""
-global.wagc = "https://chat.whatsapp.com/BFCoDW58IO47l37X0vKz2t"
+global.wagc = "https://chat.whatsapp.com/K8XO4Lh2NCBBhEqbCnepkf"
 global.saluran = "https://whatsapp.com/channel"
 global.themeemoji = '🪀'
 global.wm = "알렉산더 JK| 한국로봇"
-global.botscript = 'Dah gede nyari sc 🗿🖕' //script link
+global.botscript = 'Kepo😮‍💨' //script link
 global.packname = "Sticker By"
 global.author = "\n\n\n\n\nCreate by 알렉산더 JK\nNo hape/wa : 6282338008357"
 global.creator = "6281326753887@s.whatsapp.net"
@@ -181,7 +181,7 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 
 //messages
 global.mess = {
-wait: "*_Tunggu sebentar ya Kak♡._*",
+wait: "*_Waiting...😮‍💨._*",
    success: "Sukses Kak",
    on: "Sudah Aktif", 
    off: "Sudah Off",
